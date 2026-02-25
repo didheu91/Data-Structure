@@ -1,4 +1,4 @@
-// Stack.c
+// LinkedListStack.c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -120,4 +120,5 @@ int main() {
     PrintStack(&s);
 
     return 0;
+
 }
